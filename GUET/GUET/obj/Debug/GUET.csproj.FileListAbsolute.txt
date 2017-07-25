@@ -1,0 +1,32 @@
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET.login.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET.MainForm.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET.outdevice.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\bin\Debug\GUET仓库管理系统.exe.config
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET仓库管理系统.Properties.Resources.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\bin\Debug\GUET仓库管理系统.exe.manifest
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\bin\Debug\GUET仓库管理系统.application
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\bin\Debug\GUET仓库管理系统.exe
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\bin\Debug\GUET仓库管理系统.pdb
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET仓库管理系统.exe.manifest
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET仓库管理系统.application
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET仓库管理系统.exe
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\obj\Debug\GUET仓库管理系统.pdb
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET\GUET\bin\Debug\bin\Debug\DiamondBlue.ssk
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\bin\Debug\GUET仓库管理系统.exe.config
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET仓库管理系统.exe
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET仓库管理系统.pdb
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\bin\Debug\bin\Debug\DiamondBlue.ssk
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\bin\Debug\GUET仓库管理系统.exe.manifest
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\bin\Debug\GUET仓库管理系统.application
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\bin\Debug\GUET仓库管理系统.exe
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\bin\Debug\GUET仓库管理系统.pdb
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET.login.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET.MainForm.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET.outdevice.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET仓库管理系统.Properties.Resources.resources
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET仓库管理系统.exe.manifest
+D:\Microsoft Visual Studio 11.0\WORKSPACE\GUET - 20160902\GUET\obj\Debug\GUET仓库管理系统.application

@@ -1,0 +1,15 @@
+1.软件用Visual Studio 2012平台，C#语言编写。
+
+2.后台数据库为MySQL,且数据文件放置在阿里云服务器上
+
+  IP地址为：172.16.64.73;
+
+  登录名：everyone;
+
+  密码：123456
+
+  Database=repertory_manager;
+
+3.用VS2012 双击 GUET.sln 文件，便可以打开工程。
+
+
